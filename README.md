@@ -17,11 +17,16 @@
    
    Given the statista home page opened
      
-   When selenium clicks on login button
-   Then login popup will be opened
+   When selenium clicks on login button 
+   
+   Then login popup will be opened (See LoginScreenShoot package)
+   
    And selenium fillout login and password input fields
+   
    And selenium click on submit button
+   
    Then login popup will be closed
+   
    And  home page is shown.  
      
     
