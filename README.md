@@ -7,7 +7,7 @@
 
    2) Click on login button at page header
 
-   3) Fill out the login form with given credentials
+   3) Fill out the login form with credentials, which you received from us
 
    4) Click submit button
     
