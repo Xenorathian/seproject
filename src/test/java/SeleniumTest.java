@@ -11,6 +11,7 @@ public class SeleniumTest {
     @Before
     public void setUp() {
         WebDriverManager.chromedriver().setup();
+        WebDriverManager.chromedriver().version().setup();
         this.driver = new ChromeDriver();
     }
 
