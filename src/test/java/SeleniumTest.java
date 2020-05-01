@@ -23,7 +23,7 @@ public class SeleniumTest {
 
     2) Click on login button at page header
 
-    3) Fill out the login form the credentials
+    3) Fill out the login form with given credentials
 
     4) Click submit button
 
