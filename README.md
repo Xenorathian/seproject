@@ -13,13 +13,17 @@
     
     
     
-   Expected Result:
+    
+    
+    
+    
+   Expected result:
    
    Given the statista home page opened
      
    When selenium clicks on login button 
    
-   Then login popup will be opened (See LoginScreenShoot package)
+   Then login popup will be opened (See LoginMaskScreenshot package)
    
    And selenium fillout login and password input fields
    
@@ -31,7 +35,7 @@
      
     
 
-# Project setting
+# Project settings
 
 After you checked out the project, you need to open src/test/java package. 
 You will find there the SeleniumTest class.
