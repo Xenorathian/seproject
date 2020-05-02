@@ -17,7 +17,7 @@
     
     
     
-  # Expected result:
+  # Expected result
    
    Given the statista home page opened
      
