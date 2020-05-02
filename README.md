@@ -17,7 +17,7 @@
     
     
     
-   Expected result:
+  # Expected result:
    
    Given the statista home page opened
      
@@ -33,7 +33,15 @@
    
    And  home page is shown.  
      
-    
+
+  # Assessment criteria
+
+   1) Element selectors
+   2) Clean code
+   3) Test stability
+   
+
+
 
 # Project settings
 
